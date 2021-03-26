@@ -2,7 +2,7 @@
 
 Module is still a work in progress.
 
-In this module, you will use Azure AD B2C to create a customized identity experience for a SaaS application.  You will do this by creating some [custom policies](https://docs.microsoft.com/en-us/azure/active-directory-b2c/custom-policy-overview) in Azure AD B2C.
+In this module, you will use Azure AD B2C to create a customized identity experience for a SaaS application.  The example will allow customers to sign on with their Azure AD identity to handle scenarios for SSO with enterprise customers and Facebook.  You will do this by creating some [custom policies](https://docs.microsoft.com/en-us/azure/active-directory-b2c/custom-policy-overview) in Azure AD B2C.
 
 ## Getting Started
 
