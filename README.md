@@ -8,7 +8,7 @@
 
 
 
- ### Powered by     ![LaBrandon Enterprises logo](/img/logo.jpg)
+ ### Powered by     ![LaBrandon Enterprises logo](./img/logo.jpg)
 
 ## Core Modules
 To provide 
